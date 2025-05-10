@@ -6,7 +6,7 @@ Currently working on embedded systems, machine learning, and recommender systems
 - 🔭 Current projects: Reciprocal Recommender Replication, uBartr, ATmega3208 BLE App
 - 🌱 Currently learning: React, BLE communication, Neural Recommenders
 - 💬 Ask me about: embedded C, FreeRTOS, Python, recommender systems
-- 📫 Reach me at: lope0355@umn.edu
+- 📫 Reach me at: niklopez4102@gmail.com
 
 ## 🛠️ Technologies & Tools
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
