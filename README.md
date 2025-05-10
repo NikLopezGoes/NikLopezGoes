@@ -30,5 +30,5 @@ Currently working on full-stack development, machine learning, and recommender s
 
 ## 📈 GitHub Stats
 ![Nikolas' GitHub stats](https://github-readme-stats.vercel.app/api?username=NikLopezGoes&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NikLopezGoes)
+
 
