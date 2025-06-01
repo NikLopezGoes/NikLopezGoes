@@ -3,7 +3,7 @@
 I'm a senior CS student at the University of Minnesota   
 Currently working on full-stack development, machine learning, and recommender systems.
 
-- 🔭 Current projects: 
+- 🔭 Current projects: Taco Truck Website
 - 💬 Ask me about: Full stack Development, AI, and Machine learning
 - 📫 Reach me at: niklopez4102@gmail.com
 
