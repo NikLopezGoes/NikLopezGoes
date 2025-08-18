@@ -28,7 +28,5 @@ Currently working on full-stack development, machine learning, and recommender s
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-## 📈 GitHub Stats
-![Nikolas' GitHub stats](https://github-readme-stats.vercel.app/api?username=NikLopezGoes&show_icons=true&theme=tokyonight)
 
 
