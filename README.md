@@ -3,7 +3,7 @@
 I have A B.S. in CS from the University of Minnesota   
 Currently working on full-stack development, machine learning, and recommender systems.
 
-- 🔭 Current projects: Taco Truck Website
+- 🔭 Current projects: Shift Building Website
 - 💬 Ask me about: Full stack Development, AI, and Machine learning
 - 📫 Reach me at: niklopez4102@gmail.com
 
