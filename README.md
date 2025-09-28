@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Nikolas Lopez
 
 I have A B.S. in CS from the University of Minnesota   
-Currently working on full-stack development, machine learning, and recommender systems.
+Currently working on full-stack development, machine learning, and OOP.
 
 - 🔭 Current projects: Shift Building Website
-- 💬 Ask me about: Full stack Development, AI, and Machine learning
+- 💬 Ask me about: Full stack Development, AI, OOP, and Machine Learning
 - 📫 Reach me at: niklopez4102@gmail.com
 
 **Languages & Frameworks**  
